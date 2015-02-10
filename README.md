@@ -13,3 +13,7 @@ immanence_documentation.pdf)
 ```
 
 for a step-by-step guide to install and customize Immanence WordPress theme.
+
+##Demo
+
+Test it yourself [here](http://www.immanant.com/immanence).
