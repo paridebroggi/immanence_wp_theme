@@ -9,7 +9,7 @@ Immanence is a truly minimalist WordPress theme designed for fast, responsive an
 Please read the bundled file:
 
 ```
-immanence_documentation.pdf)
+immanence_documentation.pdf
 ```
 
 for a step-by-step guide to install and customize Immanence WordPress theme.
